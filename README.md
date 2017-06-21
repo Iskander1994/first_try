@@ -1,4 +1,2 @@
 # first_try
-my first repository on GitHUb
-Hello world
- sondes abderrazak
+Iskander ellafi, University of Pécs
